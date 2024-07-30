@@ -1,4 +1,4 @@
-# MedEasy-Hospital management system
+# Memoria
 
 - Developed a user-friendly website that invites users to share their cherished memories through personalized photo-cards and allow them to interact with each other
 
